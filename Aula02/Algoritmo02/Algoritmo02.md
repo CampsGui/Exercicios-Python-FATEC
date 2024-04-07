@@ -6,6 +6,7 @@ var taxaConsumo: real
 inicio
 
 escreva(“Informe quantos quilômetros foram percorridos: ”)
+
 leia(kmPercorrido)
 escreva(“Informe quanto combustível foi consumido: ")
 leia(combustivel)
