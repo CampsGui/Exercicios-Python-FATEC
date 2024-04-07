@@ -22,6 +22,7 @@ Se (taxaConsumo <= 8) Então
 escreva("O automóvel está consumindo muito combustível")
 
 Senão
+
 	escreva("O consumo de combustível está bom")
 
 Fim se
