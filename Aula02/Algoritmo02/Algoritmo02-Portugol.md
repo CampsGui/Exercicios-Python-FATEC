@@ -1,7 +1,6 @@
 Algoritmo TaxaConsumo
 
-var taxaConsumo: real
-    kmPercorrido, combustivel: real
+var taxaConsumo, kmPercorrido, combustivel: real
 
 inicio
 
