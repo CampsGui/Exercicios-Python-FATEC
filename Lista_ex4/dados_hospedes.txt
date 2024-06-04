@@ -1,0 +1,18 @@
+Nome: Ll
+Tipo de apartamento: D
+Numero de diarias: 140
+Valor do consumo interno: 140
+Valor total das diarias: 10500
+Subtotal: 10640
+Taxa de servico: 1064.0
+Total geral: 11704.0
+
+Nome: LLL
+Tipo de apartamento: D
+Numero de diarias: 15
+Valor do consumo interno: 150
+Valor total das diarias: 1125
+Subtotal: 1275
+Taxa de servico: 127.5
+Total geral: 1402.5
+
